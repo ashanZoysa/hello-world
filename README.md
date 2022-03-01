@@ -1,2 +1,2 @@
 # hello-world
-HelloWorld Sample Repository Lab2
+HelloWorld Sample Repository PAF Lab2
